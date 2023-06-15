@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{932EDA15-AC82-4BC0-A421-0105167B7A67}|https">
+  <MonoDevelop.Ide.ItemProperties.ecommerceApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ProductsController.cs">
+    <Files>
+      <File FileName="Program.cs" Line="51" Column="8" />
+      <File FileName="DAL/Extentions.cs" Line="17" Column="1" />
+      <File FileName="DAL/EcommerceContext.cs" Line="20" Column="2" />
+      <File FileName="DAL/DatabaseInitializer.cs" Line="13" Column="1" />
+      <File FileName="Controllers/AuthController.cs" Line="38" Column="6" />
+      <File FileName="Models/User.cs" Line="21" Column="1" />
+      <File FileName="DAL/Repositories/IRepository.cs" Line="43" Column="6" />
+      <File FileName="Controllers/ProductsController.cs" Line="22" Column="14" />
+      <File FileName="appsettings.json" />
+      <File FileName="Controllers/Requests/ProductRequest.cs" />
+      <File FileName="DAL/Configurations/UsersConfigurations.cs" />
+      <File FileName="appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="Models/UserDto.cs" Line="1" Column="1" />
+      <File FileName="Models/Product.cs" Line="26" Column="27" />
+      <File FileName="Models/BaseEntity.cs" Line="6" Column="32" />
+      <File FileName="DAL/Configurations/ProductsConfigurations.cs" Line="8" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ecommerceApi" expanded="True">
+            <Node name="ecommerceApi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="Requests" expanded="True" />
+                <Node name="ProductsController.cs" selected="True" />
+              </Node>
+              <Node name="DAL" expanded="True">
+                <Node name="Configurations" expanded="True" />
+                <Node name="Repositories" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
