@@ -1,36 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e872dbe3-f988-4dc1-8ed3-88f566f5cdb3" name="Changes" comment="" />
+    <list default="true" id="e872dbe3-f988-4dc1-8ed3-88f566f5cdb3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerceApi/.vs/ecommerceApi/xs/UserPrefs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceApi/.vs/ecommerceApi/xs/UserPrefs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerceApi/.vs/ecommerceApi/xs/project-cache/ecommerceApi-Debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceApi/.vs/ecommerceApi/xs/project-cache/ecommerceApi-Debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerceApi/Controllers/ProductsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceApi/Controllers/ProductsController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerceApi/DAL/Repositories/IRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceApi/DAL/Repositories/IRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerceApi/Models/Product.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceApi/Models/Product.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerceApi/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceApi/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerceApi/bin/Debug/net7.0/ecommerceApi.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceApi/bin/Debug/net7.0/ecommerceApi.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerceApi/bin/Debug/net7.0/ecommerceApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceApi/bin/Debug/net7.0/ecommerceApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerceApi/bin/Debug/net7.0/ecommerceApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceApi/bin/Debug/net7.0/ecommerceApi.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerceApi/ecommerceApi.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceApi/ecommerceApi.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerceApi/obj/Debug/net7.0/ecommerceApi.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceApi/obj/Debug/net7.0/ecommerceApi.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerceApi/obj/Debug/net7.0/ecommerceApi.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceApi/obj/Debug/net7.0/ecommerceApi.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerceApi/obj/Debug/net7.0/ecommerceApi.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceApi/obj/Debug/net7.0/ecommerceApi.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerceApi/obj/Debug/net7.0/ecommerceApi.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceApi/obj/Debug/net7.0/ecommerceApi.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerceApi/obj/Debug/net7.0/ecommerceApi.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceApi/obj/Debug/net7.0/ecommerceApi.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerceApi/obj/Debug/net7.0/ecommerceApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceApi/obj/Debug/net7.0/ecommerceApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerceApi/obj/Debug/net7.0/ecommerceApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceApi/obj/Debug/net7.0/ecommerceApi.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerceApi/obj/Debug/net7.0/ref/ecommerceApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceApi/obj/Debug/net7.0/ref/ecommerceApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerceApi/obj/Debug/net7.0/refint/ecommerceApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceApi/obj/Debug/net7.0/refint/ecommerceApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerceApi/obj/ecommerceApi.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceApi/obj/ecommerceApi.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerceApi/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceApi/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerceApi/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceApi/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommercefrontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/ecommercefrontend/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommercefrontend/src/components/Header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ecommercefrontend/src/components/Header/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommercefrontend/src/routs/Routes.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ecommercefrontend/src/routs/Routes.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2R9uHHBmoejI5dP3ElbOAQWO8sz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/applemisharoz2003gmail.com/Desktop/EcommerceFullStack/ecommercefrontend/public&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/applemisharoz2003gmail.com/Desktop/EcommerceFullStack/ecommercefrontend/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/applemisharoz2003gmail.com/Desktop/EcommerceFullStack/ecommercefrontend/public",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Users/applemisharoz2003gmail.com/Desktop/EcommerceFullStack/ecommercefrontend/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ecommercefrontend/public" />
       <recent name="$PROJECT_DIR$/ecommercefrontend/src" />
       <recent name="$PROJECT_DIR$/ecommercefrontend/src/Components/Register" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ecommercefrontend/src" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -44,11 +80,23 @@
       <workItem from="1686674531938" duration="4510000" />
       <workItem from="1686732886222" duration="599000" />
       <workItem from="1686744120243" duration="1822000" />
-      <workItem from="1686818391439" duration="9906000" />
+      <workItem from="1686818391439" duration="11771000" />
+      <workItem from="1686907567254" duration="4667000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

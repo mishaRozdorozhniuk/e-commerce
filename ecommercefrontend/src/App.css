@@ -13,6 +13,29 @@
   }
 }
 
+.admin-panel {
+  margin-right: 20px;
+  color: #000;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.create-product {
+  line-height: 3;
+}
+
+.create-product button {
+  font-weight: bold;
+}
+
+.create-product label {
+  margin-right: 15px;
+}
+
+.create-product input {
+  padding: 5px 20px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -22,6 +45,23 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.forms-wrapper {
+  display: flex;
+}
+
+.forms-wrapper form {
+  display: flex;
+  flex-direction: column;
+  margin-left: 30px;
+  background-color: #b4b4b4;
+  padding: 20px;
+}
+
+.forms-wrapper form button {
+  font-weight: bold;
+  margin-top: 10px;
 }
 
 .App-link {

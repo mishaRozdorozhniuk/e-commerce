@@ -33,6 +33,10 @@ public class Product : BaseEntity
         Delivery = delivery;
         UserGid = userGid;
     }
+
+    public Product()
+    {
+    }
 }
 	
 

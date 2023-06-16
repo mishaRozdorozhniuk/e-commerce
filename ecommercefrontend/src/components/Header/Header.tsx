@@ -33,10 +33,15 @@ const Header = () => {
                     Logo
                 </Logo>
             </Link>
-            <Link to='/cart'>
-                <CartIcon className="fa fa-shopping-cart" aria-hidden="true">
-            </CartIcon>
-            </Link>
+            <div>
+                <Link className="admin-panel" to='/adminPanel'>
+                    Admin Panel
+                </Link>
+                <Link to='/cart'>
+                    <CartIcon className="fa fa-shopping-cart" aria-hidden="true">
+                    </CartIcon>
+                </Link>
+            </div>
         </HeaderContainer>
     );
 };

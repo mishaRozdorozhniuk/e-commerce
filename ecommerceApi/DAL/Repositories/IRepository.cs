@@ -14,6 +14,8 @@ public interface IRepository<T> where T : BaseEntity
     Task<T> AddAsync(T entity);
 
     Task<bool> DeleteAsync(T entity);
+
+    Task<T> UpdateAsync(T entity);
 }
 
 public class Repository<T> : IRepository<T> where T : BaseEntity
@@ -51,5 +53,13 @@ public class Repository<T> : IRepository<T> where T : BaseEntity
         await _ecommerceContext.SaveChangesAsync();
 
         return true;
+    }
+
+    public async Task<T> UpdateAsync(T entity)
+    {
+        _ecommerceContext.Update(entity);
+        await _ecommerceContext.SaveChangesAsync();
+
+        return entity;
     }
 }
